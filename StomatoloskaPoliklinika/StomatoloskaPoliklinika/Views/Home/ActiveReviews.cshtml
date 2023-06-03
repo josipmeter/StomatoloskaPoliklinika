@@ -1,0 +1,41 @@
+﻿@using StomatoloskaPoliklinika.Controllers;
+@model IEnumerable<ReviewInfo>
+
+<table class="table-striped table-bordered dashboard">
+  <caption>Neugovoreni sastanci</caption>
+  <thead>
+    <tr>
+      <th scope="col">PID</th>
+      <th scope="col">Sastanak</th>
+      <th scope="col">Pacijent</th>
+      <th scope="col">Datum sastanka</th>
+      <th scope="col">Started</th>
+      <th scope="col">Stomatolog</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var info in Model)
+    {
+      <tr>
+        <td>@info.PID</td>
+        <td>@info.UgovoreniSastanakId</td>
+        <td>@info.Pacijent</td>
+        <td>@info.DatumSastanka</td>
+        <td>@info.StartTime</td>
+        <td>
+          @if (info.CanApplyForReview)
+          {
+            <form asp-action="@nameof(HomeController.ApplyForReview)" method="post">
+              <input type="hidden" name="pid" value="@info.PID" />
+              <input type="submit" class="btn btn-primary btn-sm" value="Apply" />
+            </form>
+          }
+          else
+          {
+            @info.Stomatolog
+          }
+      </td>
+    </tr>
+    }
+  </tbody>
+</table>

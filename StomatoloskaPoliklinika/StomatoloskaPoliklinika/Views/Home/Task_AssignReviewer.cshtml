@@ -1,0 +1,14 @@
+﻿@using StomatoloskaPoliklinika.Controllers;
+@model TaskInfo
+<td>
+  <form asp-action="@nameof(HomeController.AssignReviewer)" method="post">
+    <select class="form-control" name="reviewer">
+      <option disabled selected value=""></option>
+      <option value="boris">Boris</option>
+      <option value="juraj">Juraj</option>
+      <option value="kreso">Krešo</option>
+    </select>
+    <input type="hidden" name="taskId" value="@Model.TID" />
+    <input type="submit" class="btn btn-sm btn-primary" value="Assign" />
+  </form>
+</td>

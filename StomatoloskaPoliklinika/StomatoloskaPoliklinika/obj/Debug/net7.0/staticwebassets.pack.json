@@ -1,0 +1,1005 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StomatoloskaPoliklinika.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StomatoloskaPoliklinika.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\.babelrc",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\.babelrc"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\css\\bpmn-codes.css",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\css\\bpmn-codes.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\css\\bpmn-embedded.css",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\css\\bpmn-embedded.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\css\\bpmn.css",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\css\\bpmn.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.eot",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.eot"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.svg",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.svg"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.ttf",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.ttf"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.woff",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.woff"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.woff2",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\bpmn-font\\font\\bpmn.woff2"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\assets\\diagram-js.css",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\assets\\diagram-js.css"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\bpmn-modeler.development.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\bpmn-modeler.development.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\bpmn-modeler.production.min.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\bpmn-modeler.production.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\bpmn-navigated-viewer.development.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\bpmn-navigated-viewer.development.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\bpmn-navigated-viewer.production.min.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\bpmn-navigated-viewer.production.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\bpmn-viewer.development.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\bpmn-viewer.development.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\dist\\bpmn-viewer.production.min.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\dist\\bpmn-viewer.production.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\BaseModeler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\BaseModeler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\BaseViewer.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\BaseViewer.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\Modeler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\Modeler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\NavigatedViewer.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\NavigatedViewer.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\Viewer.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\Viewer.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\core\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\core\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\draw\\BpmnRenderUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\draw\\BpmnRenderUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\draw\\BpmnRenderer.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\draw\\BpmnRenderer.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\draw\\PathMap.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\draw\\PathMap.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\draw\\TextRenderer.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\draw\\TextRenderer.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\draw\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\draw\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\auto-place\\BpmnAutoPlace.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\auto-place\\BpmnAutoPlace.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\auto-place\\BpmnAutoPlaceUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\auto-place\\BpmnAutoPlaceUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\auto-place\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\auto-place\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\auto-resize\\BpmnAutoResize.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\auto-resize\\BpmnAutoResize.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\auto-resize\\BpmnAutoResizeProvider.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\auto-resize\\BpmnAutoResizeProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\auto-resize\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\auto-resize\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\context-pad\\ContextPadProvider.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\context-pad\\ContextPadProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\context-pad\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\context-pad\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\copy-paste\\BpmnCopyPaste.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\copy-paste\\BpmnCopyPaste.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\copy-paste\\ModdleCopy.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\copy-paste\\ModdleCopy.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\copy-paste\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\copy-paste\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\di-ordering\\BpmnDiOrdering.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\di-ordering\\BpmnDiOrdering.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\di-ordering\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\di-ordering\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\distribute-elements\\BpmnDistributeElements.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\distribute-elements\\BpmnDistributeElements.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\distribute-elements\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\distribute-elements\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\editor-actions\\BpmnEditorActions.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\editor-actions\\BpmnEditorActions.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\editor-actions\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\editor-actions\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\grid-snapping\\BpmnGridSnapping.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\grid-snapping\\BpmnGridSnapping.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\grid-snapping\\behavior\\AutoPlaceBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\grid-snapping\\behavior\\AutoPlaceBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\grid-snapping\\behavior\\CreateParticipantBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\grid-snapping\\behavior\\CreateParticipantBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\grid-snapping\\behavior\\LayoutConnectionBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\grid-snapping\\behavior\\LayoutConnectionBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\grid-snapping\\behavior\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\grid-snapping\\behavior\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\grid-snapping\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\grid-snapping\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\interaction-events\\BpmnInteractionEvents.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\interaction-events\\BpmnInteractionEvents.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\interaction-events\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\interaction-events\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\keyboard\\BpmnKeyboardBindings.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\keyboard\\BpmnKeyboardBindings.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\keyboard\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\keyboard\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\label-editing\\LabelEditingPreview.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\label-editing\\LabelEditingPreview.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\label-editing\\LabelEditingProvider.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\label-editing\\LabelEditingProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\label-editing\\LabelUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\label-editing\\LabelUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\label-editing\\cmd\\UpdateLabelHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\label-editing\\cmd\\UpdateLabelHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\label-editing\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\label-editing\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\BpmnFactory.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\BpmnFactory.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\BpmnLayouter.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\BpmnLayouter.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\BpmnUpdater.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\BpmnUpdater.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\ElementFactory.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\ElementFactory.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\Modeling.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\Modeling.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\AdaptiveLabelPositioningBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\AdaptiveLabelPositioningBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\AppendBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\AppendBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\AssociationBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\AssociationBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\AttachEventBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\AttachEventBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\BoundaryEventBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\BoundaryEventBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\CreateBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\CreateBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\CreateDataObjectBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\CreateDataObjectBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\CreateParticipantBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\CreateParticipantBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DataInputAssociationBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DataInputAssociationBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DataStoreBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DataStoreBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DeleteLaneBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DeleteLaneBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DetachEventBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DetachEventBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DropOnFlowBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\DropOnFlowBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\EventBasedGatewayBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\EventBasedGatewayBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\FixHoverBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\FixHoverBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\GroupBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\GroupBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ImportDockingFix.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ImportDockingFix.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\IsHorizontalFix.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\IsHorizontalFix.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\LabelBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\LabelBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ModelingFeedback.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ModelingFeedback.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\RemoveElementBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\RemoveElementBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\RemoveParticipantBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\RemoveParticipantBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ReplaceConnectionBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ReplaceConnectionBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ReplaceElementBehaviour.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ReplaceElementBehaviour.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ResizeBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ResizeBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ResizeLaneBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ResizeLaneBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\RootElementReferenceBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\RootElementReferenceBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\SpaceToolBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\SpaceToolBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\SubProcessStartEventBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\SubProcessStartEventBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ToggleElementCollapseBehaviour.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\ToggleElementCollapseBehaviour.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\UnclaimIdBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\UnclaimIdBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\UnsetDefaultFlowBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\UnsetDefaultFlowBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\UpdateFlowNodeRefsBehavior.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\UpdateFlowNodeRefsBehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\CategoryUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\CategoryUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\GeometricUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\GeometricUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\LabelLayoutUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\LabelLayoutUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\LineAttachmentUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\LineAttachmentUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\LineIntersect.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\LineIntersect.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\ResizeUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\behavior\\util\\ResizeUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\AddLaneHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\AddLaneHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\IdClaimHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\IdClaimHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\ResizeLaneHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\ResizeLaneHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\SetColorHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\SetColorHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\SplitLaneHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\SplitLaneHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\UpdateCanvasRootHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\UpdateCanvasRootHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\UpdateFlowNodeRefsHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\UpdateFlowNodeRefsHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\UpdatePropertiesHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\UpdatePropertiesHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\UpdateSemanticParentHandler.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\cmd\\UpdateSemanticParentHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\util\\LaneUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\util\\LaneUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\modeling\\util\\ModelingUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\modeling\\util\\ModelingUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\ordering\\BpmnOrderingProvider.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\ordering\\BpmnOrderingProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\ordering\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\ordering\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\palette\\PaletteProvider.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\palette\\PaletteProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\palette\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\palette\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\popup-menu\\ReplaceMenuProvider.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\popup-menu\\ReplaceMenuProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\popup-menu\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\popup-menu\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\popup-menu\\util\\TypeUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\popup-menu\\util\\TypeUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\replace-preview\\BpmnReplacePreview.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\replace-preview\\BpmnReplacePreview.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\replace-preview\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\replace-preview\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\replace\\BpmnReplace.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\replace\\BpmnReplace.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\replace\\ReplaceOptions.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\replace\\ReplaceOptions.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\replace\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\replace\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\rules\\BpmnRules.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\rules\\BpmnRules.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\rules\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\rules\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\search\\BpmnSearchProvider.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\search\\BpmnSearchProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\search\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\search\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\snapping\\BpmnConnectSnapping.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\snapping\\BpmnConnectSnapping.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\snapping\\BpmnCreateMoveSnapping.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\snapping\\BpmnCreateMoveSnapping.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\snapping\\BpmnSnappingUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\snapping\\BpmnSnappingUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\features\\snapping\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\features\\snapping\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\import\\BpmnImporter.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\import\\BpmnImporter.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\import\\BpmnTreeWalker.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\import\\BpmnTreeWalker.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\import\\Importer.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\import\\Importer.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\import\\Util.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\import\\Util.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\import\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\import\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\util\\DiUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\util\\DiUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\util\\LabelUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\util\\LabelUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\util\\ModelUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\util\\ModelUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\lib\\util\\PoweredByUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\lib\\util\\PoweredByUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\helper\\TranslationCollector.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\helper\\TranslationCollector.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\helper\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\helper\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\matchers\\BoundsMatchers.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\matchers\\BoundsMatchers.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\matchers\\ConnectionMatchers.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\matchers\\ConnectionMatchers.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\matchers\\JSONMatcher.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\matchers\\JSONMatcher.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\util\\KeyEvents.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\util\\KeyEvents.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\util\\MockEvents.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\util\\MockEvents.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\util\\custom-rules\\CustomRules.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\util\\custom-rules\\CustomRules.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\bpmn-js\\test\\util\\custom-rules\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bpmn-js\\test\\util\\custom-rules\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josip\\Desktop\\dz4\\StomatoloskaPoliklinika\\StomatoloskaPoliklinika\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.StomatoloskaPoliklinika.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.StomatoloskaPoliklinika.props",
+      "PackagePath": "build\\StomatoloskaPoliklinika.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StomatoloskaPoliklinika.props",
+      "PackagePath": "buildMultiTargeting\\StomatoloskaPoliklinika.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.StomatoloskaPoliklinika.props",
+      "PackagePath": "buildTransitive\\StomatoloskaPoliklinika.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

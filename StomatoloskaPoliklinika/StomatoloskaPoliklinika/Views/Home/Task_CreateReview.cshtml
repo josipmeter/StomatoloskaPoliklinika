@@ -1,0 +1,12 @@
+﻿@using StomatoloskaPoliklinika.Controllers;
+@model TaskInfo
+<td>
+  <form asp-action="@nameof(HomeController.FinishReview)" method="post">
+    Is OK? <input type="checkbox" name="ok" value="true">
+    <br />
+    <label for="comment">Comment: </label>
+    <input type="text" name="comment" />
+    <input type="hidden" name="taskId" value="@Model.TID" />
+    <input type="submit" class="btn btn-primary btn-sm" value="Finish review" />
+  </form>
+</td>

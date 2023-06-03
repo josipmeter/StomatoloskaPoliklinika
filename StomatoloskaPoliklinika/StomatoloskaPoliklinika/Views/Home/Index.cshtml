@@ -1,0 +1,64 @@
+﻿@model DashboardData
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="row">
+    <div class="col-lg-6">
+        <partial name="ActiveReviews" model="Model.ActiveReviews" />
+    </div>
+    <div class="col-lg-6">
+        <partial name="FinishedReviews" model="Model.FinishedReviews" />
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <partial name="MyTasks" model="Model.MyTasks" />
+    </div>
+</div>
+
+@if (Model.CoordinatorsTasks != null)
+{
+    <div class="row">
+        <div class="col-lg-12">
+            <partial name="CoordinatorsTasks" model="Model.CoordinatorsTasks" />
+        </div>
+    </div>
+}
+
+
+<br />
+<br />
+<h5 class="text-center">Process model:</h5>
+
+<div class="container" id="canvas"></div>
+
+
+@section scripts {
+    <script>
+        var diagramUrl = '@Url.Action("Diagram", "Home")';
+
+        var BpmnNavigatedViewer = window.BpmnJS;
+        var bpmnViewer = new BpmnNavigatedViewer({
+            container: '#canvas'
+        });
+
+        $.get(diagramUrl, openDiagram, 'text');
+
+        function openDiagram(bpmnXML) {
+            bpmnViewer.importXML(bpmnXML, function (err) {
+                if (err) {
+                    return console.error('could not import BPMN 2.0 diagram', err);
+                }
+
+                // access viewer components
+                var canvas = bpmnViewer.get('canvas');
+                var overlays = bpmnViewer.get('overlays');
+
+                // zoom to fit full viewport
+                canvas.zoom('fit-viewport');
+            });
+        }
+    </script>
+}

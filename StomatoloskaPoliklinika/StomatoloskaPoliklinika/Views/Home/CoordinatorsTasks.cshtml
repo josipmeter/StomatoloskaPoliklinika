@@ -1,0 +1,36 @@
+﻿@using StomatoloskaPoliklinika.Controllers;
+@model IEnumerable<TaskInfo>
+
+<table class="table-striped table-bordered dashboard">
+  <caption>Available coordinators tasks</caption>
+  <thead>
+    <tr>
+      <th scope="col">PID</th>
+      <th scope="col">Task Id</th>
+      <th scope="col">Task Name</th>      
+      <th scope="col">Question</th>
+      <th scope="col">Author</th>
+      <th scope="col">Started</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var info in Model)
+    {      
+        <tr>
+          <td>@info.TID</td>
+          <td>@info.TaskName</td>
+          <td>@info.PID</td>
+          <td>@info.UgovoreniSastanakId</td>
+          <td>@info.Pacijent</td>
+          <td>@info.StartTime</td>
+          <td>
+            <form asp-action="@nameof(HomeController.PickTask)" method="post">
+              <input type="hidden" name="taskId" value="@info.TID" />
+              <input type="submit" class="btn btn-primary btn-sm" value="Pick task" />
+            </form>
+          </td>
+        </tr>          
+      }    
+  </tbody>
+</table>

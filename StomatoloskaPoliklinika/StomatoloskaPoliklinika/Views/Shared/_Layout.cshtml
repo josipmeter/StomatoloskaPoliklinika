@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="hr_HR" xml:lang="hr_HR">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stomatoloska poliklinika - @ViewData["Title"]</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    @RenderSection("styles", required: false)
+</head>
+<body>
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+        <a class="navbar-brand" asp-action="Index" asp-controller="Home">Question review application</a>
+
+        <!-- Toggler/collapsibe Button -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Navbar links -->
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <vc:navigation />
+        </div>
+
+        <ul class="navbar-nav">
+
+            <li class="nav-item">
+                <a class="nav-link
+  @(ViewBag.Action == "Index" ? "active": "")"
+                   asp-action="Index" asp-controller="Home">
+                    Dashboard
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link
+  @(ViewBag.Action == "Start" ? "active": "")"
+                   asp-action="Start" asp-controller="Home">
+                    Start new review
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+
+    <main>
+
+        @RenderBody()
+    </main>
+    <hr />
+    <footer>
+        <p class="text-center">&copy; 2020 - RIS, ZPR, FER</p>
+    </footer>
+
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/bpmn-js/dist/bpmn-navigated-viewer.production.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.js"></script>
+    @*  <script src="~/js/site.js" asp-append-version="true"></script>*@
+
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

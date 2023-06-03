@@ -1,0 +1,47 @@
+﻿@using StomatoloskaPoliklinika.Controllers;
+@model IEnumerable<TaskInfo>
+
+<table class="table-striped table-bordered dashboard">
+  <caption>Moji sastanci</caption>
+  <thead>
+    <tr>
+      <th scope="col">PID</th>
+      <th scope="col">Task Id</th>
+      <th scope="col">Task Name</th>
+      <th scope="col">Ugovoreni sastanak</th>
+      <th scope="col">Pacijent</th>
+      <th scope="col">Datum sastanka</th>
+      <th scope="col">Started</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var info in Model)
+    {
+      <tr>
+        <td>@info.PID</td>
+        <td>@info.TID</td>
+        <td>@info.TaskName</td>
+
+        <td>@info.UgovoreniSastanakId</td>
+        <td>@info.Pacijent</td>
+        <td>@info.StartTime</td>
+        @switch (info.TaskKey)
+        {
+          case "Task_AssignReviewer":
+          case "Task_CreateReview":
+           <partial name="@info.TaskKey" model="info" />
+            break;
+          default:
+            <td>
+              <form asp-action="@nameof(HomeController.FinishTask)" method="post">
+                <input type="hidden" name="taskId" value="@info.TID" />
+                <input type="submit" class="btn btn-primary btn-sm" value="Finish task" />
+              </form>
+            </td>
+            break;
+        }
+      </tr>
+    }
+  </tbody>
+</table>

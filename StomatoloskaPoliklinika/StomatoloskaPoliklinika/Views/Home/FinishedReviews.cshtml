@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ReviewInfo>
+
+<table class="table-striped table-bordered dashboard">
+  <caption>Ugovoreni sastanci</caption>
+  <thead>
+    <tr>
+      <th scope="col">PID</th>
+      <th scope="col">Sastanak</th>
+      <th scope="col">Pacijent</th>
+      <th scope="col">Datum sastanka</th>
+      <th scope="col">Stomatolog</th>
+      <th scope="col">Started</th>
+      <th scope="col">Finished</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var info in Model)
+    {
+    <tr>
+      <td>@info.PID</td>
+      <td>@info.UgovoreniSastanakId</td>
+      <td>@info.Pacijent</td>
+      <td>@info.DatumSastanka</td>
+      <td>@info.Stomatolog</td>
+      <td>@info.StartTime</td>
+      <td>@info.EndTime</td>           
+    </tr>
+   }
+  </tbody>
+</table>
