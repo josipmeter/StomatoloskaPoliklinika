@@ -17,7 +17,7 @@ namespace StomatoloskaPoliklinika.Util
     {
         private const string camundaEngineUri = "http://localhost:8080/engine-rest";
         private static CamundaClient client = CamundaClient.Create(camundaEngineUri);
-        private const string processKey = "QuestionReview";
+        private const string processKey = "QuestionReview"; //UgovaranjeSastanka
 
         private const string applyMessage = "ReviewApplication";
 
