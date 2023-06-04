@@ -11,7 +11,7 @@ namespace StomatoloskaPoliklinika.Controllers
 {
     public class HomeController : Controller
     {
-        private const string CoordinatorsGroup = "Coordinators"; // ili Kordinatori
+        private const string CoordinatorsGroup = "Kordinatori"; // ili Kordinatori
 
         public async Task<IActionResult> Index(string user)
         {
