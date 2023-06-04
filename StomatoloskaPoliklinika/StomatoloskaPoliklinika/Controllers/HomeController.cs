@@ -5,17 +5,18 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using StomatoloskaPoliklinika.Models;
 using StomatoloskaPoliklinika.Util;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace StomatoloskaPoliklinika.Controllers
 {
     public class HomeController : Controller
     {
-        private const string CoordinatorsGroup = "Coordinators";
+        private const string CoordinatorsGroup = "Coordinators"; // ili Kordinatori
 
         public async Task<IActionResult> Index(string user)
         {
             DashboardData data = new DashboardData();
-            data.ProcessInstances = await CamundaUtil.GetReviews();
+            data.ProcessInstances = await CamundaUtil.GetUgovoreniSastanci();
             data.MyTasks = await CamundaUtil.GetTasks(user);
             if (await CamundaUtil.IsUserInGroup(user, CoordinatorsGroup))
             {
@@ -26,51 +27,51 @@ namespace StomatoloskaPoliklinika.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> ApplyForReview(string user, string pid)
+        public async Task<IActionResult> ApplyForUgovaranjeSastanka(string user, string pid)
         {
-            await CamundaUtil.ApplyForReview(pid, user);
+            await CamundaUtil.ApplyForUgovaranjeSastanka(pid, user);
             return RedirectToAction(nameof(Index), new { user });
         }
 
         [HttpPost]
-        public async Task<IActionResult> PickTask(string user, string taskId)
+        public async Task<IActionResult> PickSastanak(string user, string taskId)
         {
-            await CamundaUtil.PickTask(taskId, user);
+            await CamundaUtil.PickSastanak(taskId, user);
             return RedirectToAction(nameof(Index), new { user });
         }
 
         [HttpPost]
-        public async Task<IActionResult> FinishTask(string user, string taskId)
+        public async Task<IActionResult> FinishSastanak(string user, string taskId)
         {
-            await CamundaUtil.FinishTask(taskId);
+            await CamundaUtil.FinishSastanak(taskId);
             return RedirectToAction(nameof(Index), new { user });
         }
 
         [HttpPost]
-        public async Task<IActionResult> FinishReview(string user, string taskId, string comment, bool ok)
+        public async Task<IActionResult> FinishUgovaranjeSastanka(string user, string taskId, bool ok)
         {
-            await CamundaUtil.FinishReview(taskId, comment, ok);
+            await CamundaUtil.FinishUgovaranjeSastanka(taskId, ok);
             return RedirectToAction(nameof(Index), new { user });
         }
 
         [HttpPost]
-        public async Task<IActionResult> AssignReviewer(string user, string reviewer, string taskId)
+        public async Task<IActionResult> AssignStomatolog(string user, string stomatolog, string taskId)
         {
-            await CamundaUtil.AssignReviewer(taskId, reviewer);
+            await CamundaUtil.AssignStomatolog(taskId, stomatolog);
             return RedirectToAction(nameof(Index), new { user });
         }
 
 
         [HttpGet]
-        public IActionResult Start(string user)
+        public IActionResult Start(string user, DateTime date)
         {
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> Start(string user, int id)
+        public async Task<IActionResult> Start(string user, int id, DateTime date)
         {
-            var pid = await CamundaUtil.StartReviewProcess(id, user);
+            var pid = await CamundaUtil.StartUgovaranjeSastankaProcess(id, user, date);
 
             return RedirectToAction(nameof(Index), new { user });
         }

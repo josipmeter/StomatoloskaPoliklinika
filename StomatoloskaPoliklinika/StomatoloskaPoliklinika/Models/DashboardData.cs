@@ -7,11 +7,11 @@ namespace StomatoloskaPoliklinika.Models
 {
   public class DashboardData
   {
-    public List<ReviewInfo> ProcessInstances { get; set; }
+    public List<SastanakInfo> ProcessInstances { get; set; }
     public List<TaskInfo> MyTasks { get; set; }
     public List<TaskInfo> CoordinatorsTasks { get; set; }
 
-    public IEnumerable<ReviewInfo> ActiveReviews
+    public IEnumerable<SastanakInfo> ActiveReviews
     {
       get
       {
@@ -19,7 +19,7 @@ namespace StomatoloskaPoliklinika.Models
       }
     }
 
-    public IEnumerable<ReviewInfo> FinishedReviews
+    public IEnumerable<SastanakInfo> FinishedReviews
     {
       get
       {

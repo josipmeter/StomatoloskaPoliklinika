@@ -17,16 +17,17 @@ namespace StomatoloskaPoliklinika.Util
     {
         private const string camundaEngineUri = "http://localhost:8080/engine-rest";
         private static CamundaClient client = CamundaClient.Create(camundaEngineUri);
-        private const string processKey = "QuestionReview"; //UgovaranjeSastanka
+        private const string processKey = "UgovaranjeSastanka"; //UgovaranjeSastanka
 
-        private const string applyMessage = "ReviewApplication";
+        private const string applyMessage = "UgovaranjeSastankaApplication";
 
 
-        public static async Task<string> StartReviewProcess(int questionId, string author)
+        public static async Task<string> StartUgovaranjeSastankaProcess(int UgovoreniSastanakID, string Pacijent, DateTime DatumVrijeme)
         {
             var parameters = new Dictionary<string, object>();
-            parameters["QuestionId"] = questionId;
-            parameters["Author"] = author;
+            parameters["UgovoreniSastanakID"] = UgovoreniSastanakID;
+            parameters["Pacijent"] = Pacijent;
+            parameters["DatumVrijeme"] = DatumVrijeme;
             var processInstanceId = await StartProcess(parameters);
             return processInstanceId;
         }
@@ -44,7 +45,7 @@ namespace StomatoloskaPoliklinika.Util
             return processInstance.Id;
         }
 
-        public static async Task ApplyForReview(string pid, string user)
+        public static async Task ApplyForUgovaranjeSastanka(string pid, string user)
         {
             var message = new CorrelationMessage()
             {
@@ -53,7 +54,7 @@ namespace StomatoloskaPoliklinika.Util
                 All = true,
                 BusinessKey = null
             };
-            message.ProcessVariables.Set("Reviewer", user);
+            message.ProcessVariables.Set("Stomatolog", user);
             await client.Messages.DeliverMessage(message);
         }
 
@@ -69,32 +70,31 @@ namespace StomatoloskaPoliklinika.Util
             return list.Count > 0;
         }
 
-        public static async Task PickTask(string taskId, string user)
+        public static async Task PickSastanak(string taskId, string user)
         {
             await client.UserTasks[taskId].Claim(user);
         }
 
-        public static async Task FinishTask(string taskId)
+        public static async Task FinishUgovaranjeSastanka(string taskId)
         {
             await client.UserTasks[taskId].Complete(new CompleteTask());
         }
 
 
-        public static async Task AssignReviewer(string taskId, string reviewer)
+        public static async Task AssignStomatolog(string taskId, string stomatolog)
         {
             var variables = new Dictionary<string, VariableValue>();
-            variables["Reviewer"] = VariableValue.FromObject(reviewer);
+            variables["Stomatolog"] = VariableValue.FromObject(stomatolog);
             await client.UserTasks[taskId].Complete(new CompleteTask()
             {
                 Variables = variables
             });
         }
 
-        public static async Task FinishReview(string taskId, string comment, bool ok)
+        public static async Task FinishUgovaranjeSastanka(string taskId, bool ok)
         {
             var variables = new Dictionary<string, VariableValue>();
-            variables["RevisionNeeded"] = VariableValue.FromObject(!ok);
-            variables["Comment"] = VariableValue.FromObject(comment);
+            variables["PregledPotreban"] = VariableValue.FromObject(!ok);
             await client.UserTasks[taskId].Complete(new CompleteTask()
             {
                 Variables = variables
@@ -123,12 +123,12 @@ namespace StomatoloskaPoliklinika.Util
         //  return info;
         //}
 
-        public static async Task<List<ReviewInfo>> GetReviews()
+        public static async Task<List<SastanakInfo>> GetUgovoreniSastanci()
         {
             //var list = await client.ProcessInstances.Query(new ProcessInstanceQuery { ProcessDefinitionKey = processKey }).List();
             var historyList = await client.History.ProcessInstances.Query(new HistoricProcessInstanceQuery { ProcessDefinitionKey = processKey }).List();
-            var reviews = historyList.OrderBy(p => p.StartTime)
-                                     .Select(p => new ReviewInfo
+            var sastanci = historyList.OrderBy(p => p.StartTime)
+                                     .Select(p => new SastanakInfo
                                      {
                                          StartTime = p.StartTime,
                                          EndTime = p.State == ProcessInstanceState.Completed ? p.EndTime : new DateTime?(),
@@ -138,13 +138,13 @@ namespace StomatoloskaPoliklinika.Util
                                      .ToList();
 
             var tasks = new List<Task>();
-            foreach (var review in reviews)
+            foreach (var sastanak in sastanci)
             {
-                tasks.Add(LoadInstanceVariables(review));
+                tasks.Add(LoadInstanceVariables(sastanak));
             }
             await Task.WhenAll(tasks);
 
-            return reviews;
+            return sastanci;
         }
 
         public static async Task<List<TaskInfo>> GetTasks(string username)
@@ -210,40 +210,48 @@ namespace StomatoloskaPoliklinika.Util
         {
             var variables = await client.UserTasks[task.TID].Variables.GetAll();
 
-            if (variables.TryGetValue("QuestionId", out VariableValue value))
+            if (variables.TryGetValue("UgovoreniSastanakID", out VariableValue value))
             {
-                task.UgovoreniSastanakId = value.GetValue<int>();
+                task.UgovoreniSastanakID = value.GetValue<int>();
             }
 
-            if (variables.TryGetValue("Author", out value))
+            if (variables.TryGetValue("Pacijent", out value))
             {
                 task.Pacijent = value.GetValue<string>();
             }
 
+            if (variables.TryGetValue("DatumVrijeme", out value))
+            {
+                task.DatumVrijeme = value.GetValue<DateTime>();
+            }
+
         }
 
-        private static async Task LoadInstanceVariables(ReviewInfo review)
+        private static async Task LoadInstanceVariables(SastanakInfo sastanak)
         {
-            var list = await client.History.VariableInstances.Query(new HistoricVariableInstanceQuery { ProcessInstanceId = review.PID }).List();
-            review.UgovoreniSastanakId = list.Where(v => v.Name == "QuestionId")
+            var list = await client.History.VariableInstances.Query(new HistoricVariableInstanceQuery { ProcessInstanceId = sastanak.PID }).List();
+            sastanak.UgovoreniSastanakID = list.Where(v => v.Name == "UgovoreniSastanakID")
                                     .Select(v => Convert.ToInt32(v.Value))
                                     .First();
 
-            review.Pacijent = list.Where(v => v.Name == "Author")
+            sastanak.Pacijent = list.Where(v => v.Name == "Pacijent")
                                     .Select(v => (string)v.Value)
                                     .First();
+            sastanak.DatumVrijeme = list.Where(v => v.Name == "DatumVrijeme")
+                                    .Select(v => (DateTime)v.Value)
+                                    .First();
 
-            var reviewer = list.Where(v => v.Name == "Reviewer")
+            var stomatolog = list.Where(v => v.Name == "Stomatolog")
                                  .Select(v => v.Value as string)
                                  .FirstOrDefault();
-            review.Stomatolog = reviewer;
+            sastanak.Stomatolog = stomatolog;
 
             var timePassed = list.Where(v => v.Name == "TimePassed")
                                   .Select(v => v.Value)
                                   .FirstOrDefault();
 
 
-            review.CanApplyForReview = string.IsNullOrWhiteSpace(reviewer) && (timePassed == null || !Convert.ToBoolean(timePassed));
+            sastanak.PotrebneDorade = string.IsNullOrWhiteSpace(stomatolog) && (timePassed == null || !Convert.ToBoolean(timePassed));
         }
     }
 }
