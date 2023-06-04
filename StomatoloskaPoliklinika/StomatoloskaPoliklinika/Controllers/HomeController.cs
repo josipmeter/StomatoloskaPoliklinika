@@ -43,7 +43,7 @@ namespace StomatoloskaPoliklinika.Controllers
         [HttpPost]
         public async Task<IActionResult> FinishSastanak(string user, string taskId)
         {
-            await CamundaUtil.FinishSastanak(taskId);
+            await CamundaUtil.FinishUgovaranjeSastanka(taskId);
             return RedirectToAction(nameof(Index), new { user });
         }
 

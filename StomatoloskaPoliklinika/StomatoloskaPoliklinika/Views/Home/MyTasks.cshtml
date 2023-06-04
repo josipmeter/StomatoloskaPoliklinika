@@ -23,7 +23,7 @@
         <td>@info.TID</td>
         <td>@info.TaskName</td>
 
-        <td>@info.UgovoreniSastanakId</td>
+        <td>@info.UgovoreniSastanakID</td>
         <td>@info.Pacijent</td>
         <td>@info.StartTime</td>
         @switch (info.TaskKey)
@@ -34,7 +34,7 @@
             break;
           default:
             <td>
-              <form asp-action="@nameof(HomeController.FinishTask)" method="post">
+              <form asp-action="@nameof(HomeController.FinishSastanak)" method="post">
                 <input type="hidden" name="taskId" value="@info.TID" />
                 <input type="submit" class="btn btn-primary btn-sm" value="Finish task" />
               </form>

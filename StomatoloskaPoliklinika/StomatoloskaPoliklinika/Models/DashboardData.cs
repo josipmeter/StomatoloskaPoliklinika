@@ -11,7 +11,7 @@ namespace StomatoloskaPoliklinika.Models
     public List<TaskInfo> MyTasks { get; set; }
     public List<TaskInfo> CoordinatorsTasks { get; set; }
 
-    public IEnumerable<SastanakInfo> ActiveReviews
+    public IEnumerable<SastanakInfo> NeugovoreniSastanci
     {
       get
       {
@@ -19,7 +19,7 @@ namespace StomatoloskaPoliklinika.Models
       }
     }
 
-    public IEnumerable<SastanakInfo> FinishedReviews
+    public IEnumerable<SastanakInfo> UgovoreniSastanci
     {
       get
       {

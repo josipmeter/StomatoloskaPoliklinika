@@ -232,14 +232,14 @@ namespace StomatoloskaPoliklinika.Util
             var list = await client.History.VariableInstances.Query(new HistoricVariableInstanceQuery { ProcessInstanceId = sastanak.PID }).List();
             sastanak.UgovoreniSastanakID = list.Where(v => v.Name == "UgovoreniSastanakID")
                                     .Select(v => Convert.ToInt32(v.Value))
-                                    .First();
+                                    .FirstOrDefault();
 
             sastanak.Pacijent = list.Where(v => v.Name == "Pacijent")
                                     .Select(v => (string)v.Value)
                                     .First();
             sastanak.DatumVrijeme = list.Where(v => v.Name == "DatumVrijeme")
                                     .Select(v => (DateTime)v.Value)
-                                    .First();
+                                    .FirstOrDefault();
 
             var stomatolog = list.Where(v => v.Name == "Stomatolog")
                                  .Select(v => v.Value as string)

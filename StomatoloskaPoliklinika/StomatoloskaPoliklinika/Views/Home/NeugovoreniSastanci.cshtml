@@ -1,5 +1,5 @@
 ﻿@using StomatoloskaPoliklinika.Controllers;
-@model IEnumerable<ReviewInfo>
+@model IEnumerable<SastanakInfo>
 
 <table class="table-striped table-bordered dashboard">
   <caption>Neugovoreni sastanci</caption>
@@ -18,14 +18,14 @@
     {
       <tr>
         <td>@info.PID</td>
-        <td>@info.UgovoreniSastanakId</td>
+        <td>@info.UgovoreniSastanakID</td>
         <td>@info.Pacijent</td>
-        <td>@info.DatumSastanka</td>
+        <td>@info.DatumVrijeme</td>
         <td>@info.StartTime</td>
         <td>
-          @if (info.CanApplyForReview)
+          @if (info.PotrebneDorade)
           {
-            <form asp-action="@nameof(HomeController.ApplyForReview)" method="post">
+            <form asp-action="@nameof(HomeController.ApplyForUgovaranjeSastanka)" method="post">
               <input type="hidden" name="pid" value="@info.PID" />
               <input type="submit" class="btn btn-primary btn-sm" value="Apply" />
             </form>

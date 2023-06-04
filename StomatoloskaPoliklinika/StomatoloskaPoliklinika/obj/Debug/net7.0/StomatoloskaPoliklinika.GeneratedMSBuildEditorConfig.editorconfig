@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StomatoloskaPoliklinika
 build_property.RootNamespace = StomatoloskaPoliklinika
-build_property.ProjectDir = /Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/
+build_property.ProjectDir = C:\Users\josip\Desktop\sp\StomatoloskaPoliklinika\StomatoloskaPoliklinika\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika
+build_property.MSBuildProjectDirectory = C:\Users\josip\Desktop\sp\StomatoloskaPoliklinika\StomatoloskaPoliklinika
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/ActiveReviews.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BY3RpdmVSZXZpZXdzLmNzaHRtbA==
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/CoordinatorsTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb29yZGluYXRvcnNUYXNrcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/CoordinatorsTasks.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db29yZGluYXRvcnNUYXNrcy5jc2h0bWw=
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/FinishedReviews.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GaW5pc2hlZFJldmlld3MuY3NodG1s
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/MyTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeVRhc2tzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/NeugovoreniSastanci.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXVnb3ZvcmVuaVNhc3RhbmNpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/MyTasks.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NeVRhc2tzLmNzaHRtbA==
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Start.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Start.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdGFydC5jc2h0bWw=
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Task_OdaberiStomatologa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYXNrX09kYWJlcmlTdG9tYXRvbG9nYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Task_AssignReviewer.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UYXNrX0Fzc2lnblJldmlld2VyLmNzaHRtbA==
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Task_UgovoriSastanak.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYXNrX1Vnb3ZvcmlTYXN0YW5hay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/Task_CreateReview.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UYXNrX0NyZWF0ZVJldmlldy5jc2h0bWw=
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Home/UgovoreniSastanci.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVZ292b3JlbmlTYXN0YW5jaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Shared/Components/Navigation/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTmF2aWdhdGlvbi9EZWZhdWx0LmNzaHRtbA==
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Shared/Components/Navigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2aWdhdGlvblxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ninaanic/Tehnicke/8_semestar/infsus/dz/dz4_git/StomatoloskaPoliklinika/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-ynxw9mlx5y
+[C:/Users/josip/Desktop/sp/StomatoloskaPoliklinika/StomatoloskaPoliklinika/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1mias7scf8

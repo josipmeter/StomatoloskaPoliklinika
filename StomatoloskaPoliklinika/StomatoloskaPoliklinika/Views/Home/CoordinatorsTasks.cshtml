@@ -21,12 +21,12 @@
           <td>@info.TID</td>
           <td>@info.TaskName</td>
           <td>@info.PID</td>
-          <td>@info.UgovoreniSastanakId</td>
+          <td>@info.UgovoreniSastanakID</td>
           <td>@info.Pacijent</td>
-          <td>@info.DatumSastanka</td>
+          <td>@info.DatumVrijeme</td>
           <td>@info.StartTime</td>
           <td>
-            <form asp-action="@nameof(HomeController.PickTask)" method="post">
+            <form asp-action="@nameof(HomeController.PickSastanak)" method="post">
               <input type="hidden" name="taskId" value="@info.TID" />
               <input type="submit" class="btn btn-primary btn-sm" value="Pick task" />
             </form>
